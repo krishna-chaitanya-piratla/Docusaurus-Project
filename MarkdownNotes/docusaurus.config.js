@@ -70,7 +70,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/krishna-chaitanya-piratla',
+            href: 'https://github.com/krishna-chaitanya-piratla/Docusaurus-Project',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/krishna-chaitanya-piratla/Docusaurus-Project',
               },
             ],
           },
